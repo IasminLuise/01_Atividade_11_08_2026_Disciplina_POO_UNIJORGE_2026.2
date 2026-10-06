@@ -1,3 +1,5 @@
+Contexto:
+
 Uma academia de Jiu-Jitsu deseja desenvolver um sistema para classificar seus atletas antes de uma competição. O programa deverá analisar a idade, o peso e a graduação do lutador para determinar sua categoria e verificar se ele está apto para competir.
 
 Regras de classificação
